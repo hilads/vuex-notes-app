@@ -1,8 +1,6 @@
 # vuex-notes-app2
 
-> 原文连接：[使用 Vuex + Vue.js 构建单页应用](https://segmentfault.com/a/1190000005891026)
-
-> 抽空写了个 vue2.0 版本的
+基于vuex 的笔记应用 练习使用
 
 
 
