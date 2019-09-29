@@ -44,10 +44,19 @@
     "vue-style-loader": "^3.1.2",
     "vue-template-compiler": "^2.6.10",
     "webpack": "^2.6.1",
-    "webpack-bundle-analyzer": "^2.13.1",
+    "webpack-bundle-analyzer": ">=3.3.2",
     "webpack-dev-middleware": "^1.12.2",
     "webpack-hot-middleware": "^2.25.0",
-    "webpack-merge": "^4.2.2"
+    "webpack-merge": "^4.2.2",
+    "braces": ">=2.3.1",
+    "clean-css": ">=4.1.11",
+    "js-yaml": ">=3.13.1",
+    "randomatic": ">=3.0.0",
+    "macaddress": ">=0.2.9",
+    "debug": ">=2.6.9",
+    "lodash": ">=4.17.13",
+    "mime": ">=1.4.1"
+
   },
   "engines": {
     "node": ">= 4.0.0",
