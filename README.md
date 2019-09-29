@@ -1,4 +1,4 @@
-# vuex-notes-app2
+# vuex-notes-app
 
 基于vuex 的笔记应用 练习使用
 
